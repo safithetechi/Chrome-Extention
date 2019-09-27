@@ -1,0 +1,14 @@
+{
+  "name": "saf",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "safi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
